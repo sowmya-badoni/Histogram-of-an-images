@@ -26,8 +26,8 @@ The Histogram of gray scale image and color image is shown.
 
 ## Program:
 
-**Developed By:** Ashwina K N
-**Register Number:** 212223230025
+**Developed By:** sowmya badoni
+**Register Number:** 212223230211
 
 ```
 import cv2
